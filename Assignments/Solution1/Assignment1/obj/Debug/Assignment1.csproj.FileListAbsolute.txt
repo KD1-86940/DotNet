@@ -1,0 +1,7 @@
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\Assignment1\bin\Debug\Assignment1.exe.config
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\Assignment1\bin\Debug\Assignment1.exe
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\Assignment1\bin\Debug\Assignment1.pdb
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\Assignment1\obj\Debug\Assignment1.exe
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\Assignment1\obj\Debug\Assignment1.pdb
