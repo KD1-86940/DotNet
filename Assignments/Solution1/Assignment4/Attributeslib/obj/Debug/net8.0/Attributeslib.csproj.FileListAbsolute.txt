@@ -1,0 +1,12 @@
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\bin\Debug\net8.0\Attributeslib.deps.json
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\bin\Debug\net8.0\Attributeslib.dll
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\bin\Debug\net8.0\Attributeslib.pdb
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\Attributeslib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\Attributeslib.AssemblyInfoInputs.cache
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\Attributeslib.AssemblyInfo.cs
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\Attributeslib.csproj.CoreCompileInputs.cache
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\Attributeslib.sourcelink.json
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\Attributeslib.dll
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\refint\Attributeslib.dll
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\Attributeslib.pdb
+D:\CDAC\Assignments\MS.Net\Assignment4\Attributeslib\obj\Debug\net8.0\ref\Attributeslib.dll

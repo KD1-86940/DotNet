@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ORM/1.0.0": {
+        "dependencies": {
+          "Attributeslib": "1.0.0"
+        },
+        "runtime": {
+          "ORM.dll": {}
+        }
+      },
+      "Attributeslib/1.0.0": {
+        "runtime": {
+          "Attributeslib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ORM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Attributeslib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

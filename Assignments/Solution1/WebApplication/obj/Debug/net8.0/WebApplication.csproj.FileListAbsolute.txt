@@ -1,0 +1,8 @@
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\WebApplication\obj\Debug\net8.0\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfoInputs.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\WebApplication\obj\Debug\net8.0\WebApplication.AssemblyInfo.cs
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\WebApplication\obj\Debug\net8.0\WebApplication.csproj.CoreCompileInputs.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\WebApplication\obj\Debug\net8.0\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\WebApplication\obj\Debug\net8.0\WebApplication.RazorAssemblyInfo.cs
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\WebApplication\obj\Debug\net8.0\WebApplication.sourcelink.json

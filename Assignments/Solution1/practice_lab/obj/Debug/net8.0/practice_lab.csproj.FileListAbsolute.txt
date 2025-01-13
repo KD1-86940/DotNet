@@ -1,0 +1,15 @@
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\bin\Debug\net8.0\practice_lab.exe
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\bin\Debug\net8.0\practice_lab.deps.json
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\bin\Debug\net8.0\practice_lab.runtimeconfig.json
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\bin\Debug\net8.0\practice_lab.dll
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\bin\Debug\net8.0\practice_lab.pdb
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\practice_lab.GeneratedMSBuildEditorConfig.editorconfig
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\practice_lab.AssemblyInfoInputs.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\practice_lab.AssemblyInfo.cs
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\practice_lab.csproj.CoreCompileInputs.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\practice_lab.sourcelink.json
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\practice_lab.dll
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\refint\practice_lab.dll
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\practice_lab.pdb
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\practice_lab.genruntimeconfig.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\practice_lab\obj\Debug\net8.0\ref\practice_lab.dll

@@ -1,0 +1,11 @@
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\bin\Debug\HRMS.exe.config
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\bin\Debug\HRMS.exe
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\bin\Debug\HRMS.pdb
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\bin\Debug\Assignment3.exe
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\bin\Debug\Assignment3.pdb
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\bin\Debug\Assignment3.exe.config
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\obj\Debug\HRMS.csproj.Up2Date
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\obj\Debug\HRMS.exe
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\HRMS\obj\Debug\HRMS.pdb

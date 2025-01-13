@@ -1,0 +1,2 @@
+create table employees( Desg varchar(30),Annual Bigint,salary int,Address varchar(50),name varchar(30),salary int,PRIMARY KEY(salary) );
+create table students( course varchar(30),address varchar(30),Rollno int,PRIMARY KEY(Rollno) );

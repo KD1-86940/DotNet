@@ -1,0 +1,16 @@
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\bin\Debug\net8.0\EntityLib.deps.json
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\bin\Debug\net8.0\EntityLib.dll
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\bin\Debug\net8.0\EntityLib.pdb
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\bin\Debug\net8.0\Attributeslib.dll
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\bin\Debug\net8.0\Attributeslib.pdb
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.csproj.AssemblyReference.cache
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.AssemblyInfoInputs.cache
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.AssemblyInfo.cs
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.csproj.CoreCompileInputs.cache
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.sourcelink.json
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.csproj.CopyComplete
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.dll
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\refint\EntityLib.dll
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\EntityLib.pdb
+D:\CDAC\Assignments\MS.Net\Assignment4\EntityLib\obj\Debug\net8.0\ref\EntityLib.dll

@@ -1,0 +1,7 @@
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\lab_practice\bin\Debug\lab_practice.exe.config
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\lab_practice\bin\Debug\lab_practice.exe
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\lab_practice\bin\Debug\lab_practice.pdb
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\lab_practice\obj\Debug\lab_practice.csproj.AssemblyReference.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\lab_practice\obj\Debug\lab_practice.csproj.CoreCompileInputs.cache
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\lab_practice\obj\Debug\lab_practice.exe
+F:\Offline_Softwares\.net\DotNet\Assignments\Solution1\lab_practice\obj\Debug\lab_practice.pdb

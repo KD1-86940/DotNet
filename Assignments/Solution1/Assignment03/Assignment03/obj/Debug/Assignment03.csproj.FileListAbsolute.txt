@@ -1,0 +1,6 @@
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\Assignment03\bin\Debug\Assignment03.dll
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\Assignment03\bin\Debug\Assignment03.pdb
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\Assignment03\obj\Debug\Assignment03.csproj.AssemblyReference.cache
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\Assignment03\obj\Debug\Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\Assignment03\obj\Debug\Assignment03.dll
+C:\Users\Omkar\Desktop\CDAC_Sept24\MyGitData\DotNet\Assignment03\Assignment03\obj\Debug\Assignment03.pdb
